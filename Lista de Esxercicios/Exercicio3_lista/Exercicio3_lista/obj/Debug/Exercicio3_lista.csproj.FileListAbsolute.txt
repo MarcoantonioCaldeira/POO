@@ -1,0 +1,5 @@
+C:\Users\ifsp\Desktop\Lista de Esxercicios\Exercicio3_lista\Exercicio3_lista\obj\Debug\Exercicio3_lista.csprojAssemblyReference.cache
+C:\Users\ifsp\Desktop\Lista de Esxercicios\Exercicio3_lista\Exercicio3_lista\obj\Debug\Exercicio3_lista.Form1.resources
+C:\Users\ifsp\Desktop\Lista de Esxercicios\Exercicio3_lista\Exercicio3_lista\obj\Debug\Exercicio3_lista.Properties.Resources.resources
+C:\Users\ifsp\Desktop\Lista de Esxercicios\Exercicio3_lista\Exercicio3_lista\obj\Debug\Exercicio3_lista.csproj.GenerateResource.cache
+C:\Users\ifsp\Desktop\Lista de Esxercicios\Exercicio3_lista\Exercicio3_lista\obj\Debug\Exercicio3_lista.csproj.CoreCompileInputs.cache

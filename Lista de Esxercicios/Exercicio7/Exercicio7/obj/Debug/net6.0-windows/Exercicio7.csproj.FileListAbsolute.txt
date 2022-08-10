@@ -1,0 +1,17 @@
+C:\xampp\htdocs\Testes-e-aprendizados\Lista de Esxercicios\Exercicio7\Exercicio7\bin\Debug\net6.0-windows\Exercicio7.exe
+C:\xampp\htdocs\Testes-e-aprendizados\Lista de Esxercicios\Exercicio7\Exercicio7\bin\Debug\net6.0-windows\Exercicio7.deps.json
+C:\xampp\htdocs\Testes-e-aprendizados\Lista de Esxercicios\Exercicio7\Exercicio7\bin\Debug\net6.0-windows\Exercicio7.runtimeconfig.json
+C:\xampp\htdocs\Testes-e-aprendizados\Lista de Esxercicios\Exercicio7\Exercicio7\bin\Debug\net6.0-windows\Exercicio7.dll
+C:\xampp\htdocs\Testes-e-aprendizados\Lista de Esxercicios\Exercicio7\Exercicio7\bin\Debug\net6.0-windows\Exercicio7.pdb
+C:\xampp\htdocs\Testes-e-aprendizados\Lista de Esxercicios\Exercicio7\Exercicio7\obj\Debug\net6.0-windows\Exercicio7.csproj.AssemblyReference.cache
+C:\xampp\htdocs\Testes-e-aprendizados\Lista de Esxercicios\Exercicio7\Exercicio7\obj\Debug\net6.0-windows\Exercicio7.Form1.resources
+C:\xampp\htdocs\Testes-e-aprendizados\Lista de Esxercicios\Exercicio7\Exercicio7\obj\Debug\net6.0-windows\Exercicio7.csproj.GenerateResource.cache
+C:\xampp\htdocs\Testes-e-aprendizados\Lista de Esxercicios\Exercicio7\Exercicio7\obj\Debug\net6.0-windows\Exercicio7.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\Testes-e-aprendizados\Lista de Esxercicios\Exercicio7\Exercicio7\obj\Debug\net6.0-windows\Exercicio7.AssemblyInfoInputs.cache
+C:\xampp\htdocs\Testes-e-aprendizados\Lista de Esxercicios\Exercicio7\Exercicio7\obj\Debug\net6.0-windows\Exercicio7.AssemblyInfo.cs
+C:\xampp\htdocs\Testes-e-aprendizados\Lista de Esxercicios\Exercicio7\Exercicio7\obj\Debug\net6.0-windows\Exercicio7.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\Testes-e-aprendizados\Lista de Esxercicios\Exercicio7\Exercicio7\obj\Debug\net6.0-windows\Exercicio7.dll
+C:\xampp\htdocs\Testes-e-aprendizados\Lista de Esxercicios\Exercicio7\Exercicio7\obj\Debug\net6.0-windows\refint\Exercicio7.dll
+C:\xampp\htdocs\Testes-e-aprendizados\Lista de Esxercicios\Exercicio7\Exercicio7\obj\Debug\net6.0-windows\Exercicio7.pdb
+C:\xampp\htdocs\Testes-e-aprendizados\Lista de Esxercicios\Exercicio7\Exercicio7\obj\Debug\net6.0-windows\Exercicio7.genruntimeconfig.cache
+C:\xampp\htdocs\Testes-e-aprendizados\Lista de Esxercicios\Exercicio7\Exercicio7\obj\Debug\net6.0-windows\ref\Exercicio7.dll

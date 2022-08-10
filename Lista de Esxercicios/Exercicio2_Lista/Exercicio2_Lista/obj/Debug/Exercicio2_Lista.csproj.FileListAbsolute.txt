@@ -1,0 +1,10 @@
+C:\Users\ifsp\Desktop\Lista de Esxercicios\Exercicio2_Lista\Exercicio2_Lista\bin\Debug\Exercicio2_Lista.exe.config
+C:\Users\ifsp\Desktop\Lista de Esxercicios\Exercicio2_Lista\Exercicio2_Lista\bin\Debug\Exercicio2_Lista.exe
+C:\Users\ifsp\Desktop\Lista de Esxercicios\Exercicio2_Lista\Exercicio2_Lista\bin\Debug\Exercicio2_Lista.pdb
+C:\Users\ifsp\Desktop\Lista de Esxercicios\Exercicio2_Lista\Exercicio2_Lista\obj\Debug\Exercicio2_Lista.csprojAssemblyReference.cache
+C:\Users\ifsp\Desktop\Lista de Esxercicios\Exercicio2_Lista\Exercicio2_Lista\obj\Debug\Exercicio2_Lista.Form1.resources
+C:\Users\ifsp\Desktop\Lista de Esxercicios\Exercicio2_Lista\Exercicio2_Lista\obj\Debug\Exercicio2_Lista.Properties.Resources.resources
+C:\Users\ifsp\Desktop\Lista de Esxercicios\Exercicio2_Lista\Exercicio2_Lista\obj\Debug\Exercicio2_Lista.csproj.GenerateResource.cache
+C:\Users\ifsp\Desktop\Lista de Esxercicios\Exercicio2_Lista\Exercicio2_Lista\obj\Debug\Exercicio2_Lista.csproj.CoreCompileInputs.cache
+C:\Users\ifsp\Desktop\Lista de Esxercicios\Exercicio2_Lista\Exercicio2_Lista\obj\Debug\Exercicio2_Lista.exe
+C:\Users\ifsp\Desktop\Lista de Esxercicios\Exercicio2_Lista\Exercicio2_Lista\obj\Debug\Exercicio2_Lista.pdb

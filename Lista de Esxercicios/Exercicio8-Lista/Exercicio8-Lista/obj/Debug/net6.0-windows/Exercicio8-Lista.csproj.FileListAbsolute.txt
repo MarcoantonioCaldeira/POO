@@ -1,0 +1,17 @@
+C:\xampp\htdocs\Testes-e-aprendizados\Lista de Esxercicios\Exercicio8-Lista\Exercicio8-Lista\obj\Debug\net6.0-windows\Exercicio8-Lista.csproj.AssemblyReference.cache
+C:\xampp\htdocs\Testes-e-aprendizados\Lista de Esxercicios\Exercicio8-Lista\Exercicio8-Lista\obj\Debug\net6.0-windows\Exercicio8_Lista.Form1.resources
+C:\xampp\htdocs\Testes-e-aprendizados\Lista de Esxercicios\Exercicio8-Lista\Exercicio8-Lista\obj\Debug\net6.0-windows\Exercicio8-Lista.csproj.GenerateResource.cache
+C:\xampp\htdocs\Testes-e-aprendizados\Lista de Esxercicios\Exercicio8-Lista\Exercicio8-Lista\obj\Debug\net6.0-windows\Exercicio8-Lista.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\Testes-e-aprendizados\Lista de Esxercicios\Exercicio8-Lista\Exercicio8-Lista\obj\Debug\net6.0-windows\Exercicio8-Lista.AssemblyInfoInputs.cache
+C:\xampp\htdocs\Testes-e-aprendizados\Lista de Esxercicios\Exercicio8-Lista\Exercicio8-Lista\obj\Debug\net6.0-windows\Exercicio8-Lista.AssemblyInfo.cs
+C:\xampp\htdocs\Testes-e-aprendizados\Lista de Esxercicios\Exercicio8-Lista\Exercicio8-Lista\obj\Debug\net6.0-windows\Exercicio8-Lista.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\Testes-e-aprendizados\Lista de Esxercicios\Exercicio8-Lista\Exercicio8-Lista\bin\Debug\net6.0-windows\Exercicio8-Lista.exe
+C:\xampp\htdocs\Testes-e-aprendizados\Lista de Esxercicios\Exercicio8-Lista\Exercicio8-Lista\bin\Debug\net6.0-windows\Exercicio8-Lista.deps.json
+C:\xampp\htdocs\Testes-e-aprendizados\Lista de Esxercicios\Exercicio8-Lista\Exercicio8-Lista\bin\Debug\net6.0-windows\Exercicio8-Lista.runtimeconfig.json
+C:\xampp\htdocs\Testes-e-aprendizados\Lista de Esxercicios\Exercicio8-Lista\Exercicio8-Lista\bin\Debug\net6.0-windows\Exercicio8-Lista.dll
+C:\xampp\htdocs\Testes-e-aprendizados\Lista de Esxercicios\Exercicio8-Lista\Exercicio8-Lista\bin\Debug\net6.0-windows\Exercicio8-Lista.pdb
+C:\xampp\htdocs\Testes-e-aprendizados\Lista de Esxercicios\Exercicio8-Lista\Exercicio8-Lista\obj\Debug\net6.0-windows\Exercicio8-Lista.dll
+C:\xampp\htdocs\Testes-e-aprendizados\Lista de Esxercicios\Exercicio8-Lista\Exercicio8-Lista\obj\Debug\net6.0-windows\refint\Exercicio8-Lista.dll
+C:\xampp\htdocs\Testes-e-aprendizados\Lista de Esxercicios\Exercicio8-Lista\Exercicio8-Lista\obj\Debug\net6.0-windows\Exercicio8-Lista.pdb
+C:\xampp\htdocs\Testes-e-aprendizados\Lista de Esxercicios\Exercicio8-Lista\Exercicio8-Lista\obj\Debug\net6.0-windows\Exercicio8-Lista.genruntimeconfig.cache
+C:\xampp\htdocs\Testes-e-aprendizados\Lista de Esxercicios\Exercicio8-Lista\Exercicio8-Lista\obj\Debug\net6.0-windows\ref\Exercicio8-Lista.dll

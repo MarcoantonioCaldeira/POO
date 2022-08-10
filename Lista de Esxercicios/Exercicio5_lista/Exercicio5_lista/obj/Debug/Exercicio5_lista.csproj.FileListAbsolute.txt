@@ -1,0 +1,9 @@
+C:\Users\ifsp\Desktop\Lista de Esxercicios\Exercicio5_lista\Exercicio5_lista\bin\Debug\Exercicio5_lista.exe.config
+C:\Users\ifsp\Desktop\Lista de Esxercicios\Exercicio5_lista\Exercicio5_lista\bin\Debug\Exercicio5_lista.exe
+C:\Users\ifsp\Desktop\Lista de Esxercicios\Exercicio5_lista\Exercicio5_lista\bin\Debug\Exercicio5_lista.pdb
+C:\Users\ifsp\Desktop\Lista de Esxercicios\Exercicio5_lista\Exercicio5_lista\obj\Debug\Exercicio5_lista.Form1.resources
+C:\Users\ifsp\Desktop\Lista de Esxercicios\Exercicio5_lista\Exercicio5_lista\obj\Debug\Exercicio5_lista.Properties.Resources.resources
+C:\Users\ifsp\Desktop\Lista de Esxercicios\Exercicio5_lista\Exercicio5_lista\obj\Debug\Exercicio5_lista.csproj.GenerateResource.cache
+C:\Users\ifsp\Desktop\Lista de Esxercicios\Exercicio5_lista\Exercicio5_lista\obj\Debug\Exercicio5_lista.csproj.CoreCompileInputs.cache
+C:\Users\ifsp\Desktop\Lista de Esxercicios\Exercicio5_lista\Exercicio5_lista\obj\Debug\Exercicio5_lista.exe
+C:\Users\ifsp\Desktop\Lista de Esxercicios\Exercicio5_lista\Exercicio5_lista\obj\Debug\Exercicio5_lista.pdb

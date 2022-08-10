@@ -1,0 +1,10 @@
+C:\Users\ifsp\Desktop\Lista de Esxercicios\Exercicio4\Exercicio4\bin\Debug\Exercicio4.exe.config
+C:\Users\ifsp\Desktop\Lista de Esxercicios\Exercicio4\Exercicio4\bin\Debug\Exercicio4.exe
+C:\Users\ifsp\Desktop\Lista de Esxercicios\Exercicio4\Exercicio4\bin\Debug\Exercicio4.pdb
+C:\Users\ifsp\Desktop\Lista de Esxercicios\Exercicio4\Exercicio4\obj\Debug\Exercicio4.csprojAssemblyReference.cache
+C:\Users\ifsp\Desktop\Lista de Esxercicios\Exercicio4\Exercicio4\obj\Debug\Exercicio4.Form1.resources
+C:\Users\ifsp\Desktop\Lista de Esxercicios\Exercicio4\Exercicio4\obj\Debug\Exercicio4.Properties.Resources.resources
+C:\Users\ifsp\Desktop\Lista de Esxercicios\Exercicio4\Exercicio4\obj\Debug\Exercicio4.csproj.GenerateResource.cache
+C:\Users\ifsp\Desktop\Lista de Esxercicios\Exercicio4\Exercicio4\obj\Debug\Exercicio4.csproj.CoreCompileInputs.cache
+C:\Users\ifsp\Desktop\Lista de Esxercicios\Exercicio4\Exercicio4\obj\Debug\Exercicio4.exe
+C:\Users\ifsp\Desktop\Lista de Esxercicios\Exercicio4\Exercicio4\obj\Debug\Exercicio4.pdb

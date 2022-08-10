@@ -1,0 +1,10 @@
+C:\xampp\htdocs\Testes-e-aprendizados\Lista de Esxercicios\Exercicio9-Lista\Exercicio9-Lista\bin\Debug\Exercicio9-Lista.exe.config
+C:\xampp\htdocs\Testes-e-aprendizados\Lista de Esxercicios\Exercicio9-Lista\Exercicio9-Lista\bin\Debug\Exercicio9-Lista.exe
+C:\xampp\htdocs\Testes-e-aprendizados\Lista de Esxercicios\Exercicio9-Lista\Exercicio9-Lista\bin\Debug\Exercicio9-Lista.pdb
+C:\xampp\htdocs\Testes-e-aprendizados\Lista de Esxercicios\Exercicio9-Lista\Exercicio9-Lista\obj\Debug\Exercicio9-Lista.csprojAssemblyReference.cache
+C:\xampp\htdocs\Testes-e-aprendizados\Lista de Esxercicios\Exercicio9-Lista\Exercicio9-Lista\obj\Debug\Exercicio9_Lista.Form1.resources
+C:\xampp\htdocs\Testes-e-aprendizados\Lista de Esxercicios\Exercicio9-Lista\Exercicio9-Lista\obj\Debug\Exercicio9_Lista.Properties.Resources.resources
+C:\xampp\htdocs\Testes-e-aprendizados\Lista de Esxercicios\Exercicio9-Lista\Exercicio9-Lista\obj\Debug\Exercicio9-Lista.csproj.GenerateResource.cache
+C:\xampp\htdocs\Testes-e-aprendizados\Lista de Esxercicios\Exercicio9-Lista\Exercicio9-Lista\obj\Debug\Exercicio9-Lista.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\Testes-e-aprendizados\Lista de Esxercicios\Exercicio9-Lista\Exercicio9-Lista\obj\Debug\Exercicio9-Lista.exe
+C:\xampp\htdocs\Testes-e-aprendizados\Lista de Esxercicios\Exercicio9-Lista\Exercicio9-Lista\obj\Debug\Exercicio9-Lista.pdb

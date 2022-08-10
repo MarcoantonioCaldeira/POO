@@ -1,0 +1,5 @@
+C:\xampp\htdocs\Testes-e-aprendizados\Lista de Esxercicios\Exercicio11_Lista\Exercicio11_Lista\obj\Debug\Exercicio11_Lista.csprojAssemblyReference.cache
+C:\xampp\htdocs\Testes-e-aprendizados\Lista de Esxercicios\Exercicio11_Lista\Exercicio11_Lista\obj\Debug\Exercicio11_Lista.Form1.resources
+C:\xampp\htdocs\Testes-e-aprendizados\Lista de Esxercicios\Exercicio11_Lista\Exercicio11_Lista\obj\Debug\Exercicio11_Lista.Properties.Resources.resources
+C:\xampp\htdocs\Testes-e-aprendizados\Lista de Esxercicios\Exercicio11_Lista\Exercicio11_Lista\obj\Debug\Exercicio11_Lista.csproj.GenerateResource.cache
+C:\xampp\htdocs\Testes-e-aprendizados\Lista de Esxercicios\Exercicio11_Lista\Exercicio11_Lista\obj\Debug\Exercicio11_Lista.csproj.CoreCompileInputs.cache
