@@ -94,5 +94,10 @@ namespace Exercicio5_Lista
                 }
             }
         }
+
+        private void text_total_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

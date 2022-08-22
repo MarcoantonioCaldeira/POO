@@ -11,6 +11,6 @@ namespace Exercicio3_Lista
         public string periodo;
         public int serie;
         public string sigla;
-        public string tipo_de_ensino;
+        public string ensino;
     }
 }

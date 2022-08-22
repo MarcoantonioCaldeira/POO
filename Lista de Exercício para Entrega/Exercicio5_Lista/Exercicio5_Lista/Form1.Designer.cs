@@ -167,6 +167,7 @@
             this.text_total.Name = "text_total";
             this.text_total.Size = new System.Drawing.Size(127, 20);
             this.text_total.TabIndex = 11;
+            this.text_total.TextChanged += new System.EventHandler(this.text_total_TextChanged);
             // 
             // btn_sair
             // 

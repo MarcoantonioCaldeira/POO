@@ -57,24 +57,21 @@ namespace Exercicio04_Lista
             if(aluno2 != null)
             {
                 MessageBox.Show("Nome: " + aluno1.nome + ", " + "Media: " + aluno1.media +  ", " + " Data de Nascimento: " + aluno1.data_de_nascimento + "\nNome:  " + aluno2.nome + " Media: " + aluno2.media + " Data de Nascimento: " + aluno2.data_de_nascimento);
-            }
-            else
-            {
-                MessageBox.Show("\nNome: " + aluno1.nome + ", " + " Media: " + aluno1.media + ", " + " Data de Nascimento: " + aluno1.data_de_nascimento);
-            }
 
-            //Verificação da maior media
-            if(aluno1.media > aluno2.media)
-            {
-                MessageBox.Show("A maior media é do aluno: " + aluno1.nome);
-            }
-            else
-            {
-                if(aluno2.media > aluno1.media)
+                //Verificação da maior media
+                if (aluno1.media > aluno2.media)
+                {
+                    MessageBox.Show("A maior media é do aluno: " + aluno1.nome);
+                }
+                else
                 {
                     MessageBox.Show("A maior media é do aluno: " + aluno2.nome);
                 }
             }
+            else
+            {
+                MessageBox.Show("\nNome: " + aluno1.nome + ", " + " Media: " + aluno1.media + ", " + " Data de Nascimento: " + aluno1.data_de_nascimento);
+            }     
         }
 
         private void btn_fechar_Click(object sender, EventArgs e)

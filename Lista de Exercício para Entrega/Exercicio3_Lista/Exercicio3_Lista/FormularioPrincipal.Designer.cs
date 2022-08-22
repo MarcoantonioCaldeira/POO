@@ -35,19 +35,11 @@
             this.text_sigla = new System.Windows.Forms.TextBox();
             this.label4 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
-            this.rdb_1 = new System.Windows.Forms.RadioButton();
-            this.rdb2 = new System.Windows.Forms.RadioButton();
-            this.rdb3 = new System.Windows.Forms.RadioButton();
-            this.groupBox1 = new System.Windows.Forms.GroupBox();
             this.btn_cadastrar = new System.Windows.Forms.Button();
-            this.menuStrip1 = new System.Windows.Forms.MenuStrip();
-            this.turmasToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.turma1ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.turma2ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.ajudaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.btn_visualisar = new System.Windows.Forms.Button();
-            this.groupBox1.SuspendLayout();
-            this.menuStrip1.SuspendLayout();
+            this.combo_ensino = new System.Windows.Forms.ComboBox();
+            this.label5 = new System.Windows.Forms.Label();
+            this.btn_sair = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // label1
@@ -99,7 +91,7 @@
             // 
             // text_sigla
             // 
-            this.text_sigla.Location = new System.Drawing.Point(62, 183);
+            this.text_sigla.Location = new System.Drawing.Point(61, 183);
             this.text_sigla.Name = "text_sigla";
             this.text_sigla.Size = new System.Drawing.Size(162, 20);
             this.text_sigla.TabIndex = 4;
@@ -122,54 +114,9 @@
             this.label3.TabIndex = 6;
             this.label3.Text = "Serie:";
             // 
-            // rdb_1
-            // 
-            this.rdb_1.AutoSize = true;
-            this.rdb_1.Location = new System.Drawing.Point(6, 22);
-            this.rdb_1.Name = "rdb_1";
-            this.rdb_1.Size = new System.Drawing.Size(130, 17);
-            this.rdb_1.TabIndex = 7;
-            this.rdb_1.TabStop = true;
-            this.rdb_1.Text = "Ensino Fundamental 1";
-            this.rdb_1.UseVisualStyleBackColor = true;
-            // 
-            // rdb2
-            // 
-            this.rdb2.AutoSize = true;
-            this.rdb2.Location = new System.Drawing.Point(6, 46);
-            this.rdb2.Name = "rdb2";
-            this.rdb2.Size = new System.Drawing.Size(133, 17);
-            this.rdb2.TabIndex = 8;
-            this.rdb2.TabStop = true;
-            this.rdb2.Text = "Ensino Fundamental 2 ";
-            this.rdb2.UseVisualStyleBackColor = true;
-            // 
-            // rdb3
-            // 
-            this.rdb3.AutoSize = true;
-            this.rdb3.Location = new System.Drawing.Point(6, 70);
-            this.rdb3.Name = "rdb3";
-            this.rdb3.Size = new System.Drawing.Size(89, 17);
-            this.rdb3.TabIndex = 9;
-            this.rdb3.TabStop = true;
-            this.rdb3.Text = "Ensino Medio";
-            this.rdb3.UseVisualStyleBackColor = true;
-            // 
-            // groupBox1
-            // 
-            this.groupBox1.Controls.Add(this.rdb_1);
-            this.groupBox1.Controls.Add(this.rdb3);
-            this.groupBox1.Controls.Add(this.rdb2);
-            this.groupBox1.Location = new System.Drawing.Point(21, 234);
-            this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Size = new System.Drawing.Size(200, 100);
-            this.groupBox1.TabIndex = 10;
-            this.groupBox1.TabStop = false;
-            this.groupBox1.Text = "Ensino";
-            // 
             // btn_cadastrar
             // 
-            this.btn_cadastrar.Location = new System.Drawing.Point(272, 293);
+            this.btn_cadastrar.Location = new System.Drawing.Point(21, 293);
             this.btn_cadastrar.Name = "btn_cadastrar";
             this.btn_cadastrar.Size = new System.Drawing.Size(102, 38);
             this.btn_cadastrar.TabIndex = 11;
@@ -177,65 +124,61 @@
             this.btn_cadastrar.UseVisualStyleBackColor = true;
             this.btn_cadastrar.Click += new System.EventHandler(this.btn_cadastrar_Click);
             // 
-            // menuStrip1
-            // 
-            this.menuStrip1.BackColor = System.Drawing.SystemColors.ControlDark;
-            this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.turmasToolStripMenuItem,
-            this.ajudaToolStripMenuItem});
-            this.menuStrip1.Location = new System.Drawing.Point(0, 0);
-            this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(505, 24);
-            this.menuStrip1.TabIndex = 12;
-            this.menuStrip1.Text = "menuStrip1";
-            // 
-            // turmasToolStripMenuItem
-            // 
-            this.turmasToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.turma1ToolStripMenuItem,
-            this.turma2ToolStripMenuItem});
-            this.turmasToolStripMenuItem.Name = "turmasToolStripMenuItem";
-            this.turmasToolStripMenuItem.Size = new System.Drawing.Size(59, 20);
-            this.turmasToolStripMenuItem.Text = "Turmas";
-            // 
-            // turma1ToolStripMenuItem
-            // 
-            this.turma1ToolStripMenuItem.Name = "turma1ToolStripMenuItem";
-            this.turma1ToolStripMenuItem.Size = new System.Drawing.Size(121, 22);
-            this.turma1ToolStripMenuItem.Text = "Turma 1";
-            // 
-            // turma2ToolStripMenuItem
-            // 
-            this.turma2ToolStripMenuItem.Name = "turma2ToolStripMenuItem";
-            this.turma2ToolStripMenuItem.Size = new System.Drawing.Size(121, 22);
-            this.turma2ToolStripMenuItem.Text = "Turma  2";
-            // 
-            // ajudaToolStripMenuItem
-            // 
-            this.ajudaToolStripMenuItem.Name = "ajudaToolStripMenuItem";
-            this.ajudaToolStripMenuItem.Size = new System.Drawing.Size(50, 20);
-            this.ajudaToolStripMenuItem.Text = "Ajuda";
-            // 
             // btn_visualisar
             // 
-            this.btn_visualisar.Enabled = false;
-            this.btn_visualisar.Location = new System.Drawing.Point(380, 293);
+            this.btn_visualisar.Location = new System.Drawing.Point(129, 293);
             this.btn_visualisar.Name = "btn_visualisar";
             this.btn_visualisar.Size = new System.Drawing.Size(102, 38);
             this.btn_visualisar.TabIndex = 13;
             this.btn_visualisar.Text = "Visualizar";
             this.btn_visualisar.UseCompatibleTextRendering = true;
             this.btn_visualisar.UseVisualStyleBackColor = true;
-            this.btn_visualisar.Click += new System.EventHandler(this.btn_sair_Click);
+            this.btn_visualisar.Click += new System.EventHandler(this.btn_visualisar_Click);
+            // 
+            // combo_ensino
+            // 
+            this.combo_ensino.AutoCompleteSource = System.Windows.Forms.AutoCompleteSource.CustomSource;
+            this.combo_ensino.Cursor = System.Windows.Forms.Cursors.Default;
+            this.combo_ensino.FormattingEnabled = true;
+            this.combo_ensino.Items.AddRange(new object[] {
+            "Ensino Fundamental 1",
+            "Ensino Fundamental 2",
+            "Ensino Medio"});
+            this.combo_ensino.Location = new System.Drawing.Point(104, 222);
+            this.combo_ensino.Name = "combo_ensino";
+            this.combo_ensino.Size = new System.Drawing.Size(162, 21);
+            this.combo_ensino.TabIndex = 14;
+            // 
+            // label5
+            // 
+            this.label5.AutoSize = true;
+            this.label5.Location = new System.Drawing.Point(18, 225);
+            this.label5.Name = "label5";
+            this.label5.Size = new System.Drawing.Size(80, 13);
+            this.label5.TabIndex = 15;
+            this.label5.Text = "Tipo de ensino:";
+            // 
+            // btn_sair
+            // 
+            this.btn_sair.Location = new System.Drawing.Point(380, 293);
+            this.btn_sair.Name = "btn_sair";
+            this.btn_sair.Size = new System.Drawing.Size(102, 38);
+            this.btn_sair.TabIndex = 16;
+            this.btn_sair.Text = "Sair";
+            this.btn_sair.UseCompatibleTextRendering = true;
+            this.btn_sair.UseVisualStyleBackColor = true;
+            this.btn_sair.Click += new System.EventHandler(this.btn_sair_Click);
             // 
             // FormularioPrincipal
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(505, 361);
+            this.Controls.Add(this.btn_sair);
+            this.Controls.Add(this.label5);
+            this.Controls.Add(this.combo_ensino);
             this.Controls.Add(this.btn_visualisar);
             this.Controls.Add(this.btn_cadastrar);
-            this.Controls.Add(this.groupBox1);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.text_sigla);
@@ -243,13 +186,8 @@
             this.Controls.Add(this.combo_periodo);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
-            this.Controls.Add(this.menuStrip1);
             this.Name = "FormularioPrincipal";
             this.Text = "Form1";
-            this.groupBox1.ResumeLayout(false);
-            this.groupBox1.PerformLayout();
-            this.menuStrip1.ResumeLayout(false);
-            this.menuStrip1.PerformLayout();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -264,17 +202,11 @@
         private System.Windows.Forms.TextBox text_sigla;
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.Label label3;
-        private System.Windows.Forms.RadioButton rdb_1;
-        private System.Windows.Forms.RadioButton rdb2;
-        private System.Windows.Forms.RadioButton rdb3;
-        private System.Windows.Forms.GroupBox groupBox1;
         private System.Windows.Forms.Button btn_cadastrar;
-        private System.Windows.Forms.MenuStrip menuStrip1;
-        private System.Windows.Forms.ToolStripMenuItem turmasToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem ajudaToolStripMenuItem;
         private System.Windows.Forms.Button btn_visualisar;
-        private System.Windows.Forms.ToolStripMenuItem turma1ToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem turma2ToolStripMenuItem;
+        private System.Windows.Forms.ComboBox combo_ensino;
+        private System.Windows.Forms.Label label5;
+        private System.Windows.Forms.Button btn_sair;
     }
 }
 
