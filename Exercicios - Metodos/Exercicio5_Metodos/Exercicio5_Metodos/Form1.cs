@@ -8,41 +8,35 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Exercicio2
+namespace Exercicio5_Metodos
 {
     public partial class Form1 : Form
     {
-
-        Quadrado quadrado = new Quadrado();
+        Funcionario Valores = new Funcionario();
 
         public Form1()
         {
             InitializeComponent();
         }
 
-        private void btn_perimetro_Click(object sender, EventArgs e)
-        {
-            quadrado.calcularPerimetro();
-
-            MessageBox.Show(quadrado.imprimir());
-        }
-
-        private void btn_area_Click(object sender, EventArgs e)
+        private void btn_novosalario_Click(object sender, EventArgs e)
         {
             try
             {
-                quadrado.calcularArea();
+                Valores.nome = text_nome.Text;
+                Valores.salario = Convert.ToInt32(text_salario.Text);
+                double novo_salario = Valores.aumento_Salario();
+                text_novosalario.Text = novo_salario.ToString();
             }
-            catch(Exception)
+            catch (Exception)
             {
                 MessageBox.Show("Algum erro de digitação!!!");
-            }
-            MessageBox.Show(quadrado.imprimir());
+            } 
         }
 
-        private void text_lado_TextChanged(object sender, EventArgs e)
+        private void btn_imprimir_Click(object sender, EventArgs e)
         {
-            quadrado.lado = Convert.ToInt32(text_lado.Text);
+            MessageBox.Show(Valores.imprimir_Dados());
         }
 
         private void btn_sair_Click(object sender, EventArgs e)

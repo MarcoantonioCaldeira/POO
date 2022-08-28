@@ -147,7 +147,7 @@
             // 
             // btn_fechar
             // 
-            this.btn_fechar.Location = new System.Drawing.Point(285, 21);
+            this.btn_fechar.Location = new System.Drawing.Point(285, 12);
             this.btn_fechar.Name = "btn_fechar";
             this.btn_fechar.Size = new System.Drawing.Size(75, 28);
             this.btn_fechar.TabIndex = 10;
