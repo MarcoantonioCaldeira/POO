@@ -28,13 +28,13 @@ namespace Exercicio2_Objetos
             return preco;
         }
 
-        public void setPreco(int Preco)
+        public void setPreco(double Preco)
         {
             this.preco = Preco;
         }
 
 
-        public double getQtdEstoque()
+        public int getQtdEstoque()
         {
             return qtdEstoque;
         }
@@ -42,6 +42,11 @@ namespace Exercicio2_Objetos
         public void setQtdEstoque(int qtd_estoque)
         {
             this.qtdEstoque = qtd_estoque;
+        }
+
+        public double EfetuarVenda(int quant_compra)
+        {
+            return preco * quant_compra;
         }
     }
 }

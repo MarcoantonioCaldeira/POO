@@ -34,13 +34,14 @@
             this.text_nome = new System.Windows.Forms.TextBox();
             this.text_preco = new System.Windows.Forms.TextBox();
             this.text_quant = new System.Windows.Forms.TextBox();
-            this.button1 = new System.Windows.Forms.Button();
-            this.button2 = new System.Windows.Forms.Button();
-            this.button3 = new System.Windows.Forms.Button();
-            this.button4 = new System.Windows.Forms.Button();
-            this.button5 = new System.Windows.Forms.Button();
-            this.button6 = new System.Windows.Forms.Button();
+            this.btn_cadastro = new System.Windows.Forms.Button();
+            this.btn_venda = new System.Windows.Forms.Button();
+            this.btn_listar = new System.Windows.Forms.Button();
+            this.btn_excluir = new System.Windows.Forms.Button();
+            this.btn_sair = new System.Windows.Forms.Button();
             this.list_produtos = new System.Windows.Forms.ListBox();
+            this.label4 = new System.Windows.Forms.Label();
+            this.text_quant_compra = new System.Windows.Forms.TextBox();
             this.SuspendLayout();
             // 
             // label1
@@ -91,63 +92,55 @@
             this.text_quant.Size = new System.Drawing.Size(150, 20);
             this.text_quant.TabIndex = 5;
             // 
-            // button1
+            // btn_cadastro
             // 
-            this.button1.Location = new System.Drawing.Point(373, 12);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(118, 39);
-            this.button1.TabIndex = 6;
-            this.button1.Text = "Cadastrar";
-            this.button1.UseVisualStyleBackColor = true;
-            this.button1.Click += new System.EventHandler(this.button1_Click);
+            this.btn_cadastro.Location = new System.Drawing.Point(373, 12);
+            this.btn_cadastro.Name = "btn_cadastro";
+            this.btn_cadastro.Size = new System.Drawing.Size(118, 39);
+            this.btn_cadastro.TabIndex = 6;
+            this.btn_cadastro.Text = "Cadastrar";
+            this.btn_cadastro.UseVisualStyleBackColor = true;
+            this.btn_cadastro.Click += new System.EventHandler(this.btn_cadastro_Click);
             // 
-            // button2
+            // btn_venda
             // 
-            this.button2.Location = new System.Drawing.Point(373, 57);
-            this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(118, 39);
-            this.button2.TabIndex = 7;
-            this.button2.Text = "Consultar";
-            this.button2.UseVisualStyleBackColor = true;
-            this.button2.Click += new System.EventHandler(this.button2_Click);
+            this.btn_venda.Location = new System.Drawing.Point(373, 122);
+            this.btn_venda.Name = "btn_venda";
+            this.btn_venda.Size = new System.Drawing.Size(118, 39);
+            this.btn_venda.TabIndex = 8;
+            this.btn_venda.Text = "Efetuar Venda";
+            this.btn_venda.UseVisualStyleBackColor = true;
+            this.btn_venda.Click += new System.EventHandler(this.btn_venda_Click);
             // 
-            // button3
+            // btn_listar
             // 
-            this.button3.Location = new System.Drawing.Point(373, 102);
-            this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(118, 39);
-            this.button3.TabIndex = 8;
-            this.button3.Text = "Efetuar Venda";
-            this.button3.UseVisualStyleBackColor = true;
+            this.btn_listar.Location = new System.Drawing.Point(373, 64);
+            this.btn_listar.Name = "btn_listar";
+            this.btn_listar.Size = new System.Drawing.Size(118, 39);
+            this.btn_listar.TabIndex = 9;
+            this.btn_listar.Text = "Listar Todos os refrigerantes";
+            this.btn_listar.UseVisualStyleBackColor = true;
+            this.btn_listar.Click += new System.EventHandler(this.btn_listar_Click);
             // 
-            // button4
+            // btn_excluir
             // 
-            this.button4.Location = new System.Drawing.Point(373, 147);
-            this.button4.Name = "button4";
-            this.button4.Size = new System.Drawing.Size(118, 39);
-            this.button4.TabIndex = 9;
-            this.button4.Text = "Listar Todos os refrigerantes";
-            this.button4.UseVisualStyleBackColor = true;
-            this.button4.Click += new System.EventHandler(this.button4_Click);
+            this.btn_excluir.Location = new System.Drawing.Point(373, 176);
+            this.btn_excluir.Name = "btn_excluir";
+            this.btn_excluir.Size = new System.Drawing.Size(118, 39);
+            this.btn_excluir.TabIndex = 10;
+            this.btn_excluir.Text = "Excluir Refrigerante";
+            this.btn_excluir.UseVisualStyleBackColor = true;
+            this.btn_excluir.Click += new System.EventHandler(this.btn_excluir_Click);
             // 
-            // button5
+            // btn_sair
             // 
-            this.button5.Location = new System.Drawing.Point(373, 192);
-            this.button5.Name = "button5";
-            this.button5.Size = new System.Drawing.Size(118, 39);
-            this.button5.TabIndex = 10;
-            this.button5.Text = "Excluir Refrigerante";
-            this.button5.UseVisualStyleBackColor = true;
-            // 
-            // button6
-            // 
-            this.button6.Location = new System.Drawing.Point(373, 237);
-            this.button6.Name = "button6";
-            this.button6.Size = new System.Drawing.Size(118, 39);
-            this.button6.TabIndex = 11;
-            this.button6.Text = "Sair";
-            this.button6.UseVisualStyleBackColor = true;
-            this.button6.Click += new System.EventHandler(this.button6_Click);
+            this.btn_sair.Location = new System.Drawing.Point(373, 221);
+            this.btn_sair.Name = "btn_sair";
+            this.btn_sair.Size = new System.Drawing.Size(118, 39);
+            this.btn_sair.TabIndex = 11;
+            this.btn_sair.Text = "Sair";
+            this.btn_sair.UseVisualStyleBackColor = true;
+            this.btn_sair.Click += new System.EventHandler(this.button6_Click);
             // 
             // list_produtos
             // 
@@ -157,18 +150,35 @@
             this.list_produtos.Size = new System.Drawing.Size(274, 95);
             this.list_produtos.TabIndex = 12;
             // 
+            // label4
+            // 
+            this.label4.AutoSize = true;
+            this.label4.Location = new System.Drawing.Point(36, 391);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(236, 13);
+            this.label4.TabIndex = 13;
+            this.label4.Text = "Selecione o Refrigerante e realize a sua compra:";
+            // 
+            // text_quant_compra
+            // 
+            this.text_quant_compra.Location = new System.Drawing.Point(275, 388);
+            this.text_quant_compra.Name = "text_quant_compra";
+            this.text_quant_compra.Size = new System.Drawing.Size(216, 20);
+            this.text_quant_compra.TabIndex = 14;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(503, 375);
+            this.ClientSize = new System.Drawing.Size(503, 477);
+            this.Controls.Add(this.text_quant_compra);
+            this.Controls.Add(this.label4);
             this.Controls.Add(this.list_produtos);
-            this.Controls.Add(this.button6);
-            this.Controls.Add(this.button5);
-            this.Controls.Add(this.button4);
-            this.Controls.Add(this.button3);
-            this.Controls.Add(this.button2);
-            this.Controls.Add(this.button1);
+            this.Controls.Add(this.btn_sair);
+            this.Controls.Add(this.btn_excluir);
+            this.Controls.Add(this.btn_listar);
+            this.Controls.Add(this.btn_venda);
+            this.Controls.Add(this.btn_cadastro);
             this.Controls.Add(this.text_quant);
             this.Controls.Add(this.text_preco);
             this.Controls.Add(this.text_nome);
@@ -190,13 +200,14 @@
         private System.Windows.Forms.TextBox text_nome;
         private System.Windows.Forms.TextBox text_preco;
         private System.Windows.Forms.TextBox text_quant;
-        private System.Windows.Forms.Button button1;
-        private System.Windows.Forms.Button button2;
-        private System.Windows.Forms.Button button3;
-        private System.Windows.Forms.Button button4;
-        private System.Windows.Forms.Button button5;
-        private System.Windows.Forms.Button button6;
+        private System.Windows.Forms.Button btn_cadastro;
+        private System.Windows.Forms.Button btn_venda;
+        private System.Windows.Forms.Button btn_listar;
+        private System.Windows.Forms.Button btn_excluir;
+        private System.Windows.Forms.Button btn_sair;
         private System.Windows.Forms.ListBox list_produtos;
+        private System.Windows.Forms.Label label4;
+        private System.Windows.Forms.TextBox text_quant_compra;
     }
 }
 
